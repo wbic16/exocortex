@@ -144,7 +144,21 @@ libphext
 A reference implementation of phext in plain C.
 
 https://github.com/wbic16/libphext
-tinycc project
+Websim Stuff
+
+Windowing System (Win98)
+https://websim.ai/c/YSkBmClJTJfFX6yEu
+
+Live Web Editor
+https://websim.ai/c/34zZ4afC1BtjCdv73
+
+hptp://phext.io/web-editor?live=1&auto-render=1&actions={open,save,compile,run,commit,undo,redo}&implement=true&apply=win95&apply=fullstack-ide&apply=runtimes
+
+No Color
+https://websim.ai/c/9mZnv3fzGyGkQQU7I
+
+Color
+https://websim.ai/c/d80F50asG5kHOGJKrtinycc project
 
 https://bellard.org/tcc/
 
