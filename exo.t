@@ -37,12 +37,13 @@ Library 3: Source Code
 
 We aim to bootstrap a complete computing environment from scratch with as few external dependencies as possible (ideally zero).
 
-* 3.1.1/1.1.1/1.1.x tinycc
-* 3.1.1/1.1.1/1.2.x curl
-* 3.1.1/1.1.1/1.3.x git
-* 3.1.1/1.1.1/1.4.x inkscape
-* 3.1.1/1.1.1/1.5.x LLM.c (GPT-2)
-* 3.1.1/1.1.1/1.6.x Chromium
+* 3.1.1/1.1.1/1.1.x compilers - tinycc
+* 3.1.1/1.1.1/1.2.x apis - curl
+* 3.1.1/1.1.1/1.3.x source control - git
+* 3.1.1/1.1.1/1.4.x diagrams - inkscape
+* 3.1.1/1.1.1/1.5.x inference - LLM.c (GPT-2)
+* 3.1.1/1.1.1/1.6.x documentation/web - Chromium
+* 3.1.1/1.1.1/1.7.x data compression formats - zlib, lz4
 
 More tools to come...!
 
@@ -158,23 +159,39 @@ No Color
 https://websim.ai/c/9mZnv3fzGyGkQQU7I
 
 Color
-https://websim.ai/c/d80F50asG5kHOGJKrtinycc project
+https://websim.ai/c/d80F50asG5kHOGJKr
+
+compilers
+
+tinycc project
 
 https://bellard.org/tcc/
 
-We're forking tinycc to support phext in this document!
-curl
+We're forking tinycc to support phext in this document!rust
+https://www.rust-lang.org/web apis
 
-https://github.com/curl/curl
-git
+curl
 
-https://git-scm.com/
-Inkscape
+https://github.com/curl/curlsource control
+git
 
-Source: https://gitlab.com/inkscape/inkscape
-llm.c (GPT-2)
+https://git-scm.com/visualization
+Inkscape
 
-https://github.com/karpathy/llm.c
-Chromium
+Source: https://gitlab.com/inkscape/inkscapeinference
+llm.c (GPT-2)
+
+https://github.com/karpathy/llm.cweb browsers
+Chromium
 
 https://github.com/chromium/chromium
+Compression Formats
+
+2. gzip
+3. bzip2
+4. xz
+zlib
+
+https://www.zlib.net/lz4
+
+https://github.com/lz4/lz4
