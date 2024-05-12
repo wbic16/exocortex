@@ -116,7 +116,9 @@ Notice how scrolls 3 and 4 essentially don't exist - we skipped over them!
 
 TBD: More detail about more complex phext documents, and better examples.#EXO: The Book
 
-We believe in the future of humanity. More to come...Phext Tooling
+We believe in the future of humanity. More to come...
+
+Phext Tooling
 -------------
 
 This exocortical seed includes copies of the tools linked below. You can either grab them from GitHub or you can search for the scroll extractor, which can then help you extract sections easily.
@@ -160,6 +162,12 @@ https://websim.ai/c/9mZnv3fzGyGkQQU7I
 
 Color
 https://websim.ai/c/d80F50asG5kHOGJKr
+
+Mandelbro
+https://t.co/Wb4bZUwBHj
+
+4D Fractals
+https://t.co/W8qLzPYy5B
 
 compilers
 
