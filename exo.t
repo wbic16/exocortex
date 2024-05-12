@@ -170,7 +170,10 @@ https://[https://mandelbro.t/julia?Cx=true&Cy=true&Cz=true&Cw=true]
 Mandelbro
 https://websim.ai/c/PmsVgF1pDnJLP0KOa
 https://[https://mandelbro.t/julia]
-compilers
+
+Mandelbro Screensaver
+https://websim.ai/c/oUyOg4zrk6BTy7a2P
+https://[https://mandelbro.t/julia?Cx=true&Cy=true&Cz=true&Cw=true]?colorize=true&brownian-animate=truecompilers
 
 tinycc project
 
