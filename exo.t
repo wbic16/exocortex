@@ -163,12 +163,13 @@ https://websim.ai/c/9mZnv3fzGyGkQQU7I
 Color
 https://websim.ai/c/d80F50asG5kHOGJKr
 
-Mandelbro
-https://t.co/Wb4bZUwBHj
-
 4D Fractals
-https://t.co/W8qLzPYy5B
+https://websim.ai/c/QjVzNs6dixX8tAogb
+https://[https://mandelbro.t/julia?Cx=true&Cy=true&Cz=true&Cw=true]
 
+Mandelbro
+https://websim.ai/c/PmsVgF1pDnJLP0KOa
+https://[https://mandelbro.t/julia]
 compilers
 
 tinycc project
