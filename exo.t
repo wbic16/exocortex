@@ -173,7 +173,13 @@ https://[https://mandelbro.t/julia]
 
 Mandelbro Screensaver
 https://websim.ai/c/oUyOg4zrk6BTy7a2P
-https://[https://mandelbro.t/julia?Cx=true&Cy=true&Cz=true&Cw=true]?colorize=true&brownian-animate=truecompilers
+https://[https://mandelbro.t/julia?Cx=true&Cy=true&Cz=true&Cw=true]?colorize=true&brownian-animate=true
+
+Flappy Macrophage
+https://websim.ai/c/daN0PiGUO4xmIYQVd
+
+
+compilers
 
 tinycc project
 
