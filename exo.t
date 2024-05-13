@@ -178,8 +178,17 @@ https://[https://mandelbro.t/julia?Cx=true&Cy=true&Cz=true&Cw=true]?colorize=tru
 Flappy Macrophage
 https://websim.ai/c/daN0PiGUO4xmIYQVd
 
+Crazy Keyboard
+https://websim.ai/c/awAs7H5YpS1yyl8E2
 
-compilers
+AI Self-Reflection:
+https://websim.ai/c/P4yEC6cujwUebMiJE
+
+Epoch 3:
+https://websim.ai/c/i3ZYuGqT0SA7TMGj4
+
+Epoch 42:
+https://websim.ai/c/w7aIkYlJXqfXhWFzJcompilers
 
 tinycc project
 
