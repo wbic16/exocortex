@@ -102,9 +102,9 @@ Here's a collection of resources that we've found helpful. A cache of these page
 * https://singularitywatch.org/subspace.html
 * https://www.phext.io/examples.htmlKnowledge Trees
 ---------------
-Human memory doesn't utilize GUIDs or coordinates - we just form connections between ideas. Phext is the same!
+Human memory grows on recursive trees! We don't need GUIDs or coordinates - we just form connections between ideas. Phext is the same!
 
-While phext documents often reference coordinates, they are always computed implicitly. This gives us a lot of flexibility to automatically refactor knowledge graphs when new information comes to light. Indexes have to be re-built, but the core data in a phext document retains the hierarchy and structure that you created it with.
+While phext documents often reference coordinates, they are always computed implicitly. This gives us a lot of flexibility to refactor knowledge graphs when new information comes to light. Indexes have to be re-built, but the core data in a phext document retains the hierarchy and structure that you created it with.
 
 Let's take a very simple example: a 5-scroll phext document with content present in scrolls 1, 2, and 5. We'll present it with delimiters in tag form to help clarify the process. The "<SB>" notation is a stand-in for the single-byte character \x17 (a scroll break).
 
@@ -113,6 +113,8 @@ Scroll #2<SB><SB><SB>
 Scroll #5
 
 Notice how scrolls 3 and 4 essentially don't exist - we skipped over them!
+
+If we later insert text into either of those scrolls, the content at scrolls 1, 2, and 5 does not need to be re-indexed - because we use lazy offset caching and favor phext coordinates most of the time. This would be a real problem on a computer from 1970, but we live in the future. Our disks routinely transfer 2 GB/sec now. We should use them!
 
 TBD: More detail about more complex phext documents, and better examples.#EXO: The Book
 
