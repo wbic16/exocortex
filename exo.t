@@ -118,9 +118,15 @@ If we later insert text into either of those scrolls, the content at scrolls 1, 
 
 TBD: More detail about more complex phext documents, and better examples.#EXO: The Book
 
-We believe in the future of humanity. More to come...
+We believe in the future of humanity. This book is a guide for humans and a tool for computers. You can use it to create your own personal exocortex.
 
-Phext Tooling
+The exocortex, like phext, is designed to be a natural extension of your brain. Before we build out your exocortex, a brief neuroscience lesson: most of your modern human brain exists within the Cerebral Cortex (the 'cortex'). The cortex in turn is composed of the Allocortex (about 10%), and the neocortex (about 90%). The Allocortex has 4 layers, while the Neocortex has 6 layers. The rest of the brain appears to be much older (genetically-speaking).
+
+https://en.wikipedia.org/wiki/Cerebral_cortex
+
+Phext provides the scaffolding for a 9-layer exocortex. If we give every neuron in the cortex an address, then we need about 16 billion addresses (34 bits). Simply numbering your neurons doesn't provide the right context, however. Given the 6-layer nature of the neocortex, we will prefer a 6D coordinate space - roughly 50^6.
+
+If we allocate a 2000^3 coordinate space for each human to carve out a unique niche, then we can provide a framework for individual neurons to form connections with each other within the global human super-organism. For every allocated scroll in this massive phext document, we have an unbounded region of text suitable for establishing knowledge and state across every neuron on the planet. This 11-dimensional space is entirely natural and normal with phext!Phext Tooling
 -------------
 
 This exocortical seed includes copies of the tools linked below. You can either grab them from GitHub or you can search for the scroll extractor, which can then help you extract sections easily.
