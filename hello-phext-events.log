@@ -71,3 +71,101 @@ Rocket has launched from http://127.0.0.1:8000
    >> Responding with registered (not_found) 404 catcher.
    >> No matching routes for GET /.
    >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /robots.txt.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /robots.txt text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for HEAD /.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /robots.txt text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for [32mGET[0m [34m/[0m.
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mHandler [39mindex[0m[31m panicked.[0m
+   [1m>>[0m [33mA panic is treated as an internal server error.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mdefault[0m[33m[36m)[0m[33m [34mdefault[0m[33m catcher.[0m
+   [1m>>[0m [31mHandler [39mindex[0m[31m panicked.[0m
+   [1m>>[0m [33mA panic is treated as an internal server error.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mdefault[0m[33m[36m)[0m[33m [34mdefault[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/robots.txt[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m

@@ -1,3 +1,7 @@
 thread 'rocket-worker-thread' panicked at /home/ec2-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hello-phext-0.3.5/src/main.rs:545:52:
 Unable to find world: Os { code: 2, kind: NotFound, message: "No such file or directory" }
 note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+thread 'rocket-worker-thread' panicked at /home/ec2-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hello-phext-0.3.5/src/main.rs:545:52:
+Unable to find world: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+thread 'rocket-worker-thread' panicked at /home/ec2-user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hello-phext-0.3.5/src/main.rs:545:52:
+Unable to find world: Os { code: 2, kind: NotFound, message: "No such file or directory" }
