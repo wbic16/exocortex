@@ -1,0 +1,73 @@
+Rocket has launched from http://127.0.0.1:8000
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> Handler index panicked.
+   >> A panic is treated as an internal server error.
+   >> Responding with registered (default) default catcher.
+   >> No matching routes for HEAD /.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /server.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /version.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.vscode/sftp.json.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /about.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /debug/default/view?panel=config.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /v2/_catalog application/json.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /server-status.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /login.action.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /_all_dbs.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.DS_Store.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.env.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.git/config.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /s/232323e2131323e2633323e28313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /config.json.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /telescope/requests.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /?rest_route=/wp/v2/users/.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET / text/html.
+   >> Responding with registered (not_found) 404 catcher.
+   >> No matching routes for GET /.
+   >> Responding with registered (not_found) 404 catcher.
