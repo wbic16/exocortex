@@ -1,0 +1,89 @@
+A replit-based preview of the exocortex
+
+This repl lets you experiment with hello-phext, the rust-native API for hosting phexts. Use the navigation menu on your left.Subspace
+--------
+The heart of phext is the realization that plain text is just a 1D projection of a 2D text volume. Line breaks provide us with the ability to "walk" pages of text one line at a time. Phext introduces a hierarchy of additional dimension breaks (which I've named "Delimiters of Unusual Size"), allowing us to level up plain text for the 21st century. Phext retains 93%* backwards-compatibility by re-purposing rarely-used ASCII control codes for these delimiters.
+
+* I stole 9 delimiters from plain text to rule the world of text. Nine delimiters of unusual size. Since ASCII allowed for 127 unique values, I stole 7% of the OG text address space to enable phext.Delimiters of Unusual Size
+--------------------------
+Plain text formats like .csv, .txt, and .json have offered us a glimpse into the potential of phext. The missing ingredient in older formats (once you stop to realize it) is the lack of structural information in plain text.
+
+Phext poses a singular question: what happens when we apply dead reckoning to an 11-dimensional text volume? We'll need a reliable and predictable method of orienting ourselves...which phext provides by applying first-principles thinking to the humble line break.
+
+For normal pages of text, we have two coordinates: columns (1D) and lines (2D). We read text from left to right, and from top to bottom. The first point in a text document is the coordinate (1,1) - at line 1, column 1. A line break instructs us to reset our column counter to 1, while incrementing our line counter up by 1. That's the remedial part. :)
+
+Let's take our first steps into phext-land: 3D text. No, not like the Windows 95 screensaver. Actual, bona-fide, 3-dimensional text (just organized into a compressed 1D blob). We achieve this by introducing our first DOUS: the SCROLL_BREAK (0x17). Historically, a scroll break meant "End Transmission Block". Devices have long-since stopped using ASCII interfaces (thanks USB!), so now this character instructs our text processor to do what line breaks do, but in 3D! Before we do that, we need to add a third coordinate. We're about to enter the Scroll Dimension. Whenever we encounter a SB DOUS, we advance our scroll counter by 1 and reset our line and column counters to 1.
+
+Phext is the recursive application of this extension routine to 8 additional DOUS's (SN - Section, CH - Chapter, BK - Book, VM - Volume, CN - Collection, SR - Series, SF - Shelf, and LB - Library). There's nothing else to it. You can write a reference phext implementation in about 1,000 lines of code. This is possible because phext is inherently simple. Most binary file formats and markup languages can be replaced by phext - this hello-phext API allows you to interact directly with phexts without any additional database overhead. All you need is a single file and a fast disk. Thankfully, SSDs can now process 2 GB/sec.
+
+A complete list of the DOUS roster is given below.
+
+SCROLL_BREAK: 0x17
+SECTION_BREAK: 0x18
+CHAPTER_BREAK: 0x19
+BOOK_BREAK: 0x1A
+VOLUME_BREAK: 0x1C
+COLLECTION_BREAK: 0x1D
+SERIES_BREAK: 0x1E
+SHELF_BREAK: 0x1F
+LIBRARY_BREAK: 0x01Visualizing Subspace
+--------------------
+If you drop most people into 11D space, their heads will probably explode. My brain taught me how to think about phext, so I'm passing it along. The first step in understanding phext is to picture an infinite plane of text, filled with an unbounded page (scroll) of text. This 2D object is exactly what we're used to: just plain and simple text. We can encode all sorts of things in plain text. Since the space is infinite, we're only limited by our tools and abstractions! But...there's a critical flaw.
+
+How do we encode relationships within this 2D framework? We can't simply connect ideas - we have to establish links using identifiers. We've written all sorts of tools to work around this basic limitation. Whenever we want to encode something more complex than plain text, we have to resort to binary file formats, markup languages, or serialization formats. Sadly, there's no consensus on how these formats should function. So we have tools like XML, JSON, YAML, and tar.
+
+Phext rewrites the history of file systems by making plain text a first-class citizen again. Everything that you use binary file formats for is now possible within a plain text system. With the advent of LLMs, we can make our systems 100% observable - which is critical to keeping them relevant for humans in a post-AGI world.
+
+But I digress - let's return to understanding phext. Consider this: what happens when we add another dimension to plain text?
+
+If we start layering pages on top of each other, we can imagine what this 3D space feels like. By inserting characters one by one, we can (given enough disk space), walk to any point in 3D space. Let's call this manifold of text a toxel for short. It may seem large, but soon it will seem very, very small.
+
+Plain text is a compression format. It might not seem like one, but it is! As we introduce additional delimiters, we gain the ability to span larger groups of text. I've chosen to segment the coordinate space into major arms and minor arms - making it easier to keep track of the proliferation of coordinate counters.
+
+The table below gives you a mathematician's view of phext. Whenever you encounter a larger dimension break, you reset all of the smaller dimensions to 1 and start counting again.
+
+A collection of <X> maps to <Y> dimensions ("X: Y").
+
+Characters: 1D
+Lines: 2D
+Scrolls: 3D
+Sections: 4D
+Chapters: 5D
+Books: 6D
+Volumes: 7D
+Collections: 8D
+Series: 9D
+Shelves: 10D
+Libraries: 11DA History Lesson
+----------------
+Before we go further - a history lesson: prior to the introduction of the personal computer, mainframes stored text as 2D buffers. If you wanted to store a page of text, you needed to allocate 2 KB of memory or disk. This wasn't much of a problem for "Big Iron" systems - but it was a huge penalty for PCs. Early disks could only store 90 KB or 180 KB of data.
+
+Example: https://en.wikipedia.org/wiki/Atari_1050
+
+If your disk could only hold 90 KB of data, then you'd be limited to 45 pages of text. But most text files are empty space. It turns out that you can achieve roughly a 50% compression ratio simply by introducing a line break. Instead of storing lines of fixed length, we can compress all of that wasted whitespace with a single byte. Now our 90 KB disk can hold 90 pages of text, for free!
+
+We can apply similar logic for encoding the pages of a book, although the savings are less obvious. For a book with 250 pages, we're not going to save much space by adding page breaks. Early word processors actually did make use of page breaks, but somewhere along the multimedia and WYSIWYG journey in the 1990s, we lost sight of to expressive power of plain text. Outside of software development, the world has mostly moved on.
+
+I spent the first half of my career learning how to "Do Many Things ... Well". This focus on collecting skills lead me to study and use the following computer languages (listed in the order that I learned them): Basic, HTML, C, Windows Batch, Visual Basic, JavaScript, C++, XML, Java, Lisp, ASP, SQL, CSS, SOAP, Regular Expressions, Bash, awk, sed, PHP, Perl, Python, Qt, C++/CLI, C#, PowerShell, COBOL, and Rust. I invented phext at the end of that journey. :)Fun Locations in this exocortex
+-------------------------------
+
+42.1.1/1.1.1/1.1.1 - 42.28.1/1.1.1/1.1.1: Will's Programming Language notes
+Coordinates
+-----------
+
+A phext coordinate is composed of a hierarchy of 9 additional dimensions, allowing us to precisely place scrolls of text in an 11D space.
+
+1.1.1/1.1.1/1.1.1 denotes the origin scroll
+
+The format is LB.SF.SR/CN.VM.BK/CH.SN.SC where:
+LB = Library
+SF = Shelf
+SR = Series
+CN = Collection
+VM = Volume
+BK = Book
+CH = Chapter
+SN = Section
+SC = Scroll
+
+Phext coordinates are not indexes, but rather logical coordinates within the limitless bounds of a phext document. Most implementations limit you to coordinates 1-99, but there's no inherent limit.BasicHTMLCWindows BatchVisual BasicJavaScriptC++XMLJavaLispASPSQLCSSSOAPRegexbash/shellawksedPHPPerlPythonQtC++/CLIC#PowerShellCOBOLRust
