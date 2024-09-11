@@ -1150,3 +1150,433 @@ Rocket has launched from http://127.0.0.1:8000
    [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
    [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
    [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/robots.txt[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/robots.txt[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/robots.txt[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/robots.txt[0m[31m [33mtext/plain[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/.env[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/robots.txt[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+Start: 1.1.1/1.1.1/1.1.1 vs 1.1.1/1.1.1/1.1.1
+End: 1.1.1/1.1.1/1.1.1 vs 1.1.1/1.1.1/1.1.1
+Subspace start: 0, end: 0
+   [1m>>[0m [31mNo matching routes for [32mPOST[0m[31m [34m/api/v1/insert/world/1.1.1/1.1.1/1.1.1[0m[31m [33mapplication/x-www-form-urlencoded[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/.git/config[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mHEAD[0m[31m [34m/api/v1/index/kappa/42.11.27;10.10.10;5.4.1[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [31mNo matching routes for [32mGET[0m[31m [34m/[0m[31m [33mtext/html[0m[31m.[0m
+   [1m>>[0m [33mResponding with registered [36m([0m[33m[39mnot_found[0m[33m[36m)[0m[33m [34m404[0m[33m catcher.[0m
