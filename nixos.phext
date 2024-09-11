@@ -1,0 +1,15 @@
+NixOS Integration Notes
+
+https://x.com/viemccoy/status/1833451514343657851
+https://x.com/wbic16/status/1833486141036568694
+
+https://crates.io/crates/quickfork
+
+We added a command to quickfork to help with setting up a nix environment.
+
+https://crates.io/crates/quickfork
+https://nix.dev/tutorials/first-steps/ad-hoc-shell-environments
+https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md
+https://github.com/nix-community/nur
+
+Cloning the nixpkgs repo is 4+ GB of slop.
