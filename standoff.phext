@@ -1,8 +1,0 @@
-speedy-ts source
-
-upstream: https://github.com/argimenes/speedy-ts
-phext fork: https://github.com/wbic16/speedy-ts
-
-outcome: libphext-rs was ported to libphext-node
-https://github.com/wbic16/libphext-node
-https://www.npmjs.com/package/libphext
