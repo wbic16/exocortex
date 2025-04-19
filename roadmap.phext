@@ -6,6 +6,7 @@ Personal Exocortex
 - phext-shell: v0.1.13
 - phext-notepad: v0.3.1
 - phext-react-component: WIP
+- TAOCP phext-edition
 
 - prod: https://hello.phext.io/
 - test: pending
